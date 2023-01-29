@@ -1,0 +1,15 @@
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\bin\Debug\net6.0\result.exe
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\bin\Debug\net6.0\result.deps.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\bin\Debug\net6.0\result.runtimeconfig.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\bin\Debug\net6.0\result.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\bin\Debug\net6.0\result.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\obj\Debug\net6.0\result.csproj.AssemblyReference.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\obj\Debug\net6.0\result.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\obj\Debug\net6.0\result.AssemblyInfoInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\obj\Debug\net6.0\result.AssemblyInfo.cs
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\obj\Debug\net6.0\result.csproj.CoreCompileInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\obj\Debug\net6.0\result.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\obj\Debug\net6.0\refint\result.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\obj\Debug\net6.0\result.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\obj\Debug\net6.0\result.genruntimeconfig.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Итоги блока. Выбор специализации\Задание\result\obj\Debug\net6.0\ref\result.dll
